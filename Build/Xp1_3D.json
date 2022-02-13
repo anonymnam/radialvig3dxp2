@@ -1,0 +1,16 @@
+{
+"companyName": "IMT Atlantique",
+"productName": "Radial Vig3D",
+"productVersion": "0.1",
+"dataUrl": "Xp1_3D.data.unityweb",
+"wasmCodeUrl": "Xp1_3D.wasm.code.unityweb",
+"wasmFrameworkUrl": "Xp1_3D.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
